@@ -1,0 +1,38 @@
+.background {
+    background: #f5fffA; 
+    border-style: solid;
+    border-color: green;
+    border-width: 1px;
+    border-bottom: 10px solid green;
+    box-shadow: 10px 10px 5px #d3d3d3;
+    padding: 10px 10px;
+    width: 300px;  
+}
+.info{
+    color: #808080;
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+    border-radius: 3px;
+    padding: 10px 10px;
+
+}
+
+.fact{
+    font-style: italic;
+    color: #808080;
+}
+
+span {
+	font-weight: bold;
+        color: #000;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border: solid;
+    border-width: 1px;
+    margin-bottom: 10px;  
+}
+
