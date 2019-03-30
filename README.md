@@ -1,5 +1,5 @@
 # animalCard
 
 Using basic HTML and CSS to create and style the animal card.
+<img align="left" src="https://user-images.githubusercontent.com/27751735/55282864-24be6700-535e-11e9-9f00-c8d1189e5a67.png">
 
-![animalcard](https://user-images.githubusercontent.com/46223108/53129227-1a979480-3578-11e9-8b0b-fb15f89a77be.png)
